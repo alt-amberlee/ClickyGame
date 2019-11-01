@@ -1,0 +1,18 @@
+.App-header {
+  background-color: lightslategray;
+  height: 80px;
+  padding: 10px;
+  color:lightskyblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.App-title {
+  font-size: 2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
